@@ -1,0 +1,41 @@
+<file_created time="Tue Oct 21 09:00:03 EDT 2014">
+<Could not find /Users/michaeltoth/Documents/CS106HW6/Homework6Answered.pylog, creating a new logfile>
+<menu_button time="Tue Oct 21 09:00:36 EDT 2014">Load Program</menu_button>
+<command_run time="Tue Oct 21 09:00:43 EDT 2014">prob10></command_run>
+<command_run time="Tue Oct 21 09:00:45 EDT 2014">prob10()></command_run>
+<command_run time="Tue Oct 21 09:02:10 EDT 2014">prob5()></command_run>
+<command_run time="Tue Oct 21 09:02:14 EDT 2014">prob6()></command_run>
+<command_run time="Tue Oct 21 09:02:41 EDT 2014">s></command_run>
+<command_run time="Tue Oct 21 09:02:50 EDT 2014">prob7(s)></command_run>
+<menu_button time="Tue Oct 21 10:54:31 EDT 2014">Save Program As...</menu_button>
+<file_saved time="Tue Oct 21 10:54:38 EDT 2014">/Users/michaeltoth/Documents/CS106HW6/doctest1.py</file_saved>
+</file_created>
+<menu_button time="Tue Oct 21 10:54:42 EDT 2014">Load Program</menu_button>
+<command_run time="Thu Oct 23 08:48:25 EDT 2014">import numpy></command_run>
+<command_run time="Thu Oct 23 08:55:29 EDT 2014">import cmath></command_run>
+<menu_button time="Thu Oct 23 09:14:23 EDT 2014">Save Program As...</menu_button>
+<file_saved time="Thu Oct 23 09:14:34 EDT 2014">/Users/michaeltoth/Documents/CS106HW6/fft.py</file_saved>
+</file_created>
+<menu_button time="Thu Oct 23 09:14:36 EDT 2014">Load Program</menu_button>
+<menu_button time="Thu Oct 23 09:16:04 EDT 2014">getSampleValueAt</menu_button>
+<menu_button time="Thu Oct 23 09:18:03 EDT 2014">Save Program</menu_button>
+<file_saved time="Thu Oct 23 09:18:03 EDT 2014">/Users/michaeltoth/Documents/CS106HW6/fft.py</file_saved>
+</file_created>
+<menu_button time="Thu Oct 23 09:18:03 EDT 2014">Load Program</menu_button>
+<command_run time="Thu Oct 23 09:18:15 EDT 2014">fft([1,1,1,1,0,0,0,0])></command_run>
+<menu_button time="Thu Oct 23 09:18:38 EDT 2014">Save Program</menu_button>
+<file_saved time="Thu Oct 23 09:18:38 EDT 2014">/Users/michaeltoth/Documents/CS106HW6/fft.py</file_saved>
+</file_created>
+<menu_button time="Thu Oct 23 09:18:42 EDT 2014">Load Program</menu_button>
+<command_run time="Thu Oct 23 09:18:44 EDT 2014">fft([1,1,1,1,0,0,0,0])></command_run>
+<command_run time="Thu Oct 23 09:19:24 EDT 2014">print sqrt(-1)></command_run>
+<menu_button time="Thu Oct 23 09:20:06 EDT 2014">Save Program</menu_button>
+<file_saved time="Thu Oct 23 09:20:06 EDT 2014">/Users/michaeltoth/Documents/CS106HW6/fft.py</file_saved>
+</file_created>
+<menu_button time="Thu Oct 23 09:20:07 EDT 2014">Save Program</menu_button>
+<file_saved time="Thu Oct 23 09:20:07 EDT 2014">/Users/michaeltoth/Documents/CS106HW6/fft.py</file_saved>
+</file_created>
+<menu_button time="Thu Oct 23 09:20:08 EDT 2014">Load Program</menu_button>
+<menu_button time="Thu Oct 23 09:21:01 EDT 2014">Save Program As...</menu_button>
+<file_saved time="Thu Oct 23 09:21:11 EDT 2014">/Users/michaeltoth/Documents/CSI106/fft.py</file_saved>
+</file_created>
